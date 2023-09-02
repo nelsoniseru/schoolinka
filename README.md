@@ -30,7 +30,7 @@ https://github.com/nelsoniseru/schoolinka.git
 
 Please make sure mongodb software is installed.
 
-> For more details about Mysql, click [here](https://mongodb.com).
+> For more details about Mongodb, click [here](https://mongodb.com).
 
 
 
