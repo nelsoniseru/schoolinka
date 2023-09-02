@@ -44,7 +44,7 @@ Please make sure mongodb software is installed.
 -   http://localhost:3000/blogs  (POST)
 -   http://localhost:3000/blogs     (GET)
 -   http://localhost:3000/blogs/:id      (GET)
--   http://localhost:3000/blogs/update/:id      (GET)
+-   http://localhost:3000/blogs/update/:id      (POST)
 -   http://localhost:3000/blogs/:id      (DELETE)
  
 
